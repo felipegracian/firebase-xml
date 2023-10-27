@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971572994203",
+    "project_id": "upload---felipe-graciano",
+    "storage_bucket": "upload---felipe-graciano.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971572994203:android:419fca55275723d977a63e",
+        "android_client_info": {
+          "package_name": "com.example.ds3t_api_livraria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpwnEpkCWEt7bUGDsdndt545xup79bKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
